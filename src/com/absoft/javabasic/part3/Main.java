@@ -82,15 +82,15 @@ public class Main {
         showDuck(new WildDuck());
         showDuck(new RubberDuck());
 
-        showDuck(new Duck() {
+        showDuck(new Duck() { // anonymous class
             @Override
             public String say() {
                 return "hello from anonymous duck";
             }
         });
 
-        showDuck(() -> "hello from lambda duck");
-        showDuck(Main::helloFromMethodReferenceDuck);
+        showDuck(() -> "hello from lambda duck"); // lambda
+        showDuck(Main::helloFromMethodReferenceDuck); // method ref
 
         System.out.println("=====</DUCKS AGAIN>======\n");
     }

@@ -8,6 +8,6 @@ public class TeslaCar extends Car {
 
     @Override
     public String say() {
-        return "I'm Tesla electrical car, and I moves silently like a ninja";
+        return super.say() + "  I'm Tesla electrical car, and I moves silently like a ninja";
     }
 }

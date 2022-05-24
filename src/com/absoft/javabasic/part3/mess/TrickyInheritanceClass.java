@@ -4,6 +4,7 @@ public class TrickyInheritanceClass extends AbstractClass2 implements Interface4
 
     public TrickyInheritanceClass(String str) {
         super(str);
+        System.out.println("TrickyInheritanceClass");
     }
 
 //    @Override

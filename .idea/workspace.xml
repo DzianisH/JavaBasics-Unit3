@@ -2,33 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a066de0-68dd-4c93-a939-621ede8e6643" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Unit3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/absoft/javabasic/part3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/absoft/javabasic/part3/bank/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/absoft/javabasic/part3/bank/BankNameResolver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/absoft/javabasic/part3/bank/PrivatBankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/absoft/javabasic/part3/books/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/absoft/javabasic/part3/cars/BigRedCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/absoft/javabasic/part3/cars/BmwX5Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/absoft/javabasic/part3/cars/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/absoft/javabasic/part3/cars/TeslaCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/absoft/javabasic/part3/ducks/Duck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/absoft/javabasic/part3/ducks/RubberDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/absoft/javabasic/part3/ducks/WildDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/absoft/javabasic/part3/mess/AbstractClass1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/absoft/javabasic/part3/mess/AbstractClass2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/absoft/javabasic/part3/mess/Interface1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/absoft/javabasic/part3/mess/Interface2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/absoft/javabasic/part3/mess/Interface3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/absoft/javabasic/part3/mess/Interface4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/absoft/javabasic/part3/mess/Interface5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/absoft/javabasic/part3/mess/TrickyInheritanceClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/absoft/javabasic/part3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/absoft/javabasic/part3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/absoft/javabasic/part3/books/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/absoft/javabasic/part3/books/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/absoft/javabasic/part3/cars/TeslaCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/absoft/javabasic/part3/cars/TeslaCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/absoft/javabasic/part3/mess/AbstractClass1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/absoft/javabasic/part3/mess/AbstractClass1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/absoft/javabasic/part3/mess/AbstractClass2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/absoft/javabasic/part3/mess/AbstractClass2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/absoft/javabasic/part3/mess/TrickyInheritanceClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/absoft/javabasic/part3/mess/TrickyInheritanceClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,14 +78,47 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1653392077136</updated>
-      <workItem from="1653392078706" duration="7716000" />
+      <workItem from="1653392078706" duration="13631000" />
     </task>
+    <task id="LOCAL-00001" summary="karamba">
+      <created>1653406063048</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1653406063048</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="karamba" />
+    <option name="LAST_COMMIT_MESSAGE" value="karamba" />
+  </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/absoft/javabasic/part3/Main.java</url>
+          <line>108</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/absoft/javabasic/part3/cars/TeslaCar.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="com.absoft.javabasic.part3.bank.PrivatBankAccount" memberName="amount" />
+      </pinned-members>
+    </pin-to-top-manager>
   </component>
 </project>

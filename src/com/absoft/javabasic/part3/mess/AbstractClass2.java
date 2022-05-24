@@ -3,7 +3,7 @@ package com.absoft.javabasic.part3.mess;
 public abstract class AbstractClass2 extends AbstractClass1 {
 
     public AbstractClass2(String str) {
-        System.out.println(str);
+        System.out.println(str + " AbstractClass2");
     }
 
     public void methodFromAbstractClass2() {

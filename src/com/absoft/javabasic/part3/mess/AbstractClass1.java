@@ -1,6 +1,11 @@
 package com.absoft.javabasic.part3.mess;
 
 public abstract class AbstractClass1 implements Interface3 {
+
+    public AbstractClass1() {
+        System.out.println("AbstractClass1");
+    }
+
     @Override
     public void firstMethodFromInterface2() {
         System.out.println("firstMethodFromInterface2");
